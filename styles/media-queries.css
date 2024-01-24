@@ -3,12 +3,16 @@
     /* Hero Section */
     .hero-section {
         display: block;
-        background-image: url("../images/full-image.png");
+        background-image: url("../images/la-full-image.png");
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
         height: 40vh;
     }
+    .nav-links,
+    .second-nav-links {
+    padding-right:5%; 
+}
     header {
         display: none;
     }
@@ -93,13 +97,12 @@
         display: none;
     }
     .gallery-mobile {
-        display: block;
         background-color: #364659cf;
         width:100%;
         z-index: 100;
     }
     .gallery-cell-mobile {
-        display: block;
+        /* display: block; */
         width: 240px;
         height: 130px;
         margin:1rem 0.3rem 0 0;
