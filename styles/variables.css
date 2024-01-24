@@ -1,0 +1,14 @@
+:root {
+    --blue: #364659;
+    --white: #ffffff;
+    --grey: rgb(171, 171, 171);
+
+    --mohave: 'Mohave', sans-serif;
+    --nunito: 'Nunito Sans', sans-serif;
+}
+* {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
