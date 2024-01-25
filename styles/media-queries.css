@@ -12,7 +12,11 @@
     .nav-links,
     .second-nav-links {
     padding-right:5%; 
-}
+    }
+
+    .navbar-brand {
+    margin-left: 5%;
+    }
     header {
         display: none;
     }
